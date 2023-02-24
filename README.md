@@ -1,1 +1,1 @@
-# Quiz on JS
+# Quiz captain
